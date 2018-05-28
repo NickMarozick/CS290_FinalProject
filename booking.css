@@ -7,25 +7,22 @@
                  0px 8px 13px rgba(0,0,0,0.1),
                  0px 18px 23px rgba(0,0,0,0.1);
 		}
-	</style>
-
-  <style type="text/css">
+	
       .containerForTable {
-      margin-top: 200px;
-      align-items: flex-start;
-    }
-
-  </style>
-
-    <style type="text/css">
-      .containerForTable2 {
       margin-top: 100px;
-    }
-  </style>
+      align-items: flex-start;
+      color: ghostwhite;
+  	  }
 
-    <style type="text/css">
+      .containerForTable2 {
+      margin-top: 25px;
+    	}
+
       h1, h2, h3, h4 {
       color: ghostwhite;
-    }
+    	}
 
-  </style>
+	 .table {
+ 	color:ghostwhite;
+	 }
+ </style>
