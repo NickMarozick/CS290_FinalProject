@@ -1,0 +1,25 @@
+
+<style type="text/css">
+ body {
+    background: url(https://images.unsplash.com/photo-1509725525985-dae687277f7b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a8b06fafe0e9225e1c9bf926bb3be35b&auto=format&fit=crop&w=1600&q=80);
+    background-size: cover;
+    background-position: center; 
+}
+
+	<style type="text/css">
+		.content{
+		padding-top: 5%;
+		text-align: center;
+    	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+		}
+
+    .containerForScroll {
+      margin-top: 150px;
+      height: 400px;
+      width: 600px;
+      overflow: scroll;
+      padding: 20px;
+    }
+	</style>
