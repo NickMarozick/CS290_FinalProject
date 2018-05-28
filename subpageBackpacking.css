@@ -16,3 +16,8 @@
   .container {
   color:ghostwhite;
    }
+
+   .container-fluid {
+    padding-top: 4%;
+    color:ghostwhite;
+   }
